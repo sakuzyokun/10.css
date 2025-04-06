@@ -4,6 +4,7 @@
 body {
     font-family: "Segoe UI", "Noto Sans JP", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
 /* 変数でカスタマイズ可能 */
 :root {
   --titlebar-bg: #ffffff;
