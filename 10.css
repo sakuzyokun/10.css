@@ -1,5 +1,9 @@
 /* win10.css */
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+body {
+    font-family: "Segoe UI", "Noto Sans JP", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 /* 変数でカスタマイズ可能 */
 :root {
   --titlebar-bg: #ffffff;
