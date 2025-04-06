@@ -6,5 +6,5 @@ A simple CSS library to recreate the look and feel of Windows 10 UI components.
 
 ### CDN
 ```html
-<link rel="stylesheet" href="https://sakuzyokun.github.io/win10.css">
+<link rel="stylesheet" href="https://sakuzyokun.github.io/10.css">
 ```
